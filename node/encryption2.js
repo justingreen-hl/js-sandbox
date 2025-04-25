@@ -1,3 +1,4 @@
+// https://medium.com/@tony.infisical/guide-to-nodes-crypto-module-for-encryption-decryption-65c077176980
 import crypto from 'node:crypto';
 
 const encryptSymmetric = (key, plaintext) => {
